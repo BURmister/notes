@@ -2,7 +2,8 @@
 
 
 ### svg useage
-<!-- import Svg, { G, Path, Defs, ClipPath, Rect } from "react-native-svg"
+```
+import Svg, { G, Path, Defs, ClipPath, Rect } from "react-native-svg"
 <Svg
   width={20}
   height={20}
@@ -17,7 +18,8 @@
   <Rect width="28" height="25" fill="white" transform="translate(0 0.5)"></Rect>
   </ClipPath>
   </Defs>
-</Svg> -->
+</Svg>
+```
 
 
 ### Прочекать
@@ -30,7 +32,7 @@ https://mokky.dev/dashboard/
 
 ### Колонки FlatList'a
 https://stackoverflow.com/questions/50835303/2-column-layout-with-flexbox-on-react-native
-FlatList numColumns={2}/>
+```<FlatList numColumns={2}/>```
 
 
 ### Использование FlatList'а внутри ScrollView
@@ -94,18 +96,22 @@ https://pwadev.ru/learn/30days-pwa/
 ### Шпаргалка по MarkDown
 https://gist.github.com/fomvasss/8dd8cd7f88c67a4e3727f9d39224a84c
 
-yarn create-expo-app -e with-router-tailwind // [not-working]
+```yarn create-expo-app -e with-router-tailwind // [not-working]```
 
 
 ### base packages:
+```
 yarn add expo-constants expo-linking expo-router expo-splash-screen nativewind react-native-reanimated react-native-safe-area-context react-native-screens
 yarn add --dev tailwindcss
+```
 
 
 ### color scheme:
+```
 "userInterfaceStyle": "automatic",
 yarn add expo-system-ui
 yarn expo config --type introspect
+```
 
 
 ### lottie react 
