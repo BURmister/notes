@@ -149,7 +149,9 @@ https://www.framer.com/motion/examples/
 
 ### Bottom Sheet Modal, but for classic React
 https://react-spring.bottom-sheet.dev
+
 https://github.com/emilkowalski/vaul?tab=readme-ov-file
+
 https://www.npmjs.com/package/react-modal-sheet
 
 ### Paramore fandom
