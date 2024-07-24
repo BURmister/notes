@@ -157,5 +157,8 @@ https://www.npmjs.com/package/react-modal-sheet
 ### React use
 https://github.com/streamich/react-use
 
+### React when element sticky
+https://github.com/equinusocio/react-sticky-spy?tab=readme-ov-file
+
 ### Paramore fandom
 https://paramore.fandom.com/wiki/Brick_By_Boring_Brick
